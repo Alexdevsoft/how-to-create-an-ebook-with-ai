@@ -12,7 +12,7 @@ Este eBook é um guia prático e direto ao ponto para quem deseja entender e apl
 - Introduções claras e organizadas por capítulos
 
 ## 📥 Download
-Você pode baixar o eBook em PDF aqui: 👉 Clique para baixar
+Você pode baixar o eBook em PDF aqui: 👉 [Clique para baixar](https://drive.google.com/file/d/1w49wgalGbOEFLt_ICcYOE2rGCF2SNc9R/view?usp=drive_link)
 
 ## 💻 Tecnologias utilizadas
 - [ChatGPT](https://chatgpt.com/)
